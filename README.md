@@ -68,3 +68,5 @@ Processed images will be saved to the '--output_path' you specified over the com
 13.) If you like, make a video out of the images.
 
 if you cannot install any package from the get_py_requirement.sh then just search the package on the google and install the latest version it should work.
+
+# vehical_recognition_using_rpi
